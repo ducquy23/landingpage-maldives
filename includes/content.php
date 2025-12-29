@@ -85,7 +85,7 @@
             </div>
             <div class="flex flex-col gap-6">
                 <span class="text-primary font-bold tracking-wider uppercase text-sm">Về Chuyến Đi</span>
-                <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold" style="line-height: 1.4;">Khám Phá Viên Ngọc Xanh Của Ấn Độ
+                <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold" style="line-height: 1.3;">Khám Phá Viên Ngọc Xanh Của Ấn Độ
                     Dương</h2>
                 <p class="text-gray-600 dark:text-gray-300 text-lg" style="line-height: 1.8;">
                     Maldives không chỉ là một điểm đến, đó là một trải nghiệm. Chúng tôi thiết kế hành trình này để bạn
